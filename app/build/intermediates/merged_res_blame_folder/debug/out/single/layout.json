@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/tahatwo/Downloads/RestaurantRater/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listview_reviews_row.xml",
+        "source": "/Users/tahatwo/Downloads/RestaurantRater/app/src/main/res/layout/listview_reviews_row.xml"
+    },
+    {
+        "merged": "/Users/tahatwo/Downloads/RestaurantRater/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_view_reviews.xml",
+        "source": "/Users/tahatwo/Downloads/RestaurantRater/app/src/main/res/layout/activity_view_reviews.xml"
+    },
+    {
+        "merged": "/Users/tahatwo/Downloads/RestaurantRater/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_add_review.xml",
+        "source": "/Users/tahatwo/Downloads/RestaurantRater/app/src/main/res/layout/activity_add_review.xml"
+    }
+]
